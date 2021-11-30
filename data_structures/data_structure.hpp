@@ -5,6 +5,7 @@
 #include <cstdio>
 #include <cstdlib>
 #include <iostream>  /// for io operations
+#include <memory>
 
 namespace data_structures {
 
